@@ -1,42 +1,109 @@
-<h1 align="center">Hi 👋, I'm Mohammad Aazib Khan</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+# Hi, I'm Mohammad Aazib Khan 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aazib-at-hub&label=Profile%20views&color=0e75b6&style=flat" alt="aazib-at-hub" /> </p>
+### Full-Stack Developer | AI Enthusiast | Software Product Builder
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aazib-at-hub" alt="aazib-at-hub" /></a> </p>
+I enjoy building modern web applications, exploring AI-powered solutions, and turning ideas into useful software products.
 
-<p align="left"> <a href="https://twitter.com/aazibk1" target="blank"><img src="https://img.shields.io/twitter/follow/aazibk1?logo=twitter&style=for-the-badge" alt="aazibk1" /></a> </p>
+- 🔭 **Currently building:** Full-stack applications and AI-powered products
+- 🌱 **Currently learning:** React.js, backend development, and AI engineering
+- 💡 **Interested in:** Web development, AI/ML, SaaS products, and developer tools
+- 🤝 **Open to:** Collaborations, open-source contributions, and interesting software projects
+- 📫 **Contact:** [aazib12j@gmail.com](mailto:aazib12j@gmail.com)
 
-- 🌱 I’m currently learning **React.js , Backend development**
+---
 
-- 💬 Ask me about **Frontend development**
+## 🚀 Featured Projects
 
-- 📫 How to reach me **aazib12j@gmail.com**
+### 🧠 Cortex Engineering
+Exploring software development solutions for startups, agencies, and businesses.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aazibk1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aazibk1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohammad aazib khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad aazib khan" height="30" width="40" /></a>
+- Focus: Software engineering and application development
+- GitHub: [Explore the repository](https://github.com/Aazib-at-hub/Cortex-Engineering)
+
+### ⚡ Tabbed Pro
+An AI-powered prompt intelligence product designed to evaluate, improve, organize, and optimize prompts.
+
+- Focus: AI-powered productivity, prompt evaluation, and SaaS
+- Status: In development
+
+> Add more projects here as they become ready to showcase, preferably with live demos and clear descriptions of the problems they solve.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css" alt="C, C++, Java, Python, JavaScript, HTML and CSS" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,gatsby,flutter" alt="React, Gatsby and Flutter" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aazib-at-hub&show_icons=true&locale=en&layout=compact" alt="aazib-at-hub" /></p>
+### Backend Development & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,django,mongodb,mysql,postgresql" alt="Node.js, Django, MongoDB, MySQL and PostgreSQL" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aazib-at-hub&show_icons=true&locale=en" alt="aazib-at-hub" /></p>
+### AI / Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,python" alt="TensorFlow and Python" />
+</p>
 
-## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" /></a>
-</div>
-<!---
-Aazib-at-hub/Aazib-at-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Tools & Testing
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,cypress" alt="Git, Docker and Cypress" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aazib-at-hub&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aazib-at-hub&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most-used programming languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aazib-at-hub&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://github.com/aazib-at-hub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://twitter.com/aazibk1">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="mailto:aazib12j@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+## 🪶 GSSoC '24 Badges
+
+<p>
+  <a href="https://gssoc.girlscript.tech/leaderboard">
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="90" alt="Postman challenge badge" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="90" alt="Challenge badge 1" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="90" alt="Challenge badge 2" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="90" alt="Challenge badge 3" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="90" alt="Challenge badge 4" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="90" alt="Challenge badge 5" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="90" alt="Git Explorer badge" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building, learning, and shipping — one project at a time. 🚀</i>
+</p>
