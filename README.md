@@ -1,261 +1,293 @@
-# 👋 Hi, I'm Mohammad Aazib Khan
+<!-- ===================== HERO ===================== -->
 
-### Software Developer | Full-Stack Engineer | AI/ML Enthusiast
+<div align="center">
 
-<p align="left">
-  <a href="https://arc-aazib.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website" />
-  </a>
-  <a href="mailto:aazib12j@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/aazib-at-hub">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+# 👋 Hey, I'm Mohammad Aazib Khan
 
-I'm a Computer Science undergraduate at Khwaja Moinuddin Chishti Language University, graduating in 2027. I build software applications, backend services, responsive web experiences, and AI-powered products through freelance development and personal projects.
+### Software Developer · Full-Stack Engineer · AI/ML Enthusiast
 
-My interests span full-stack engineering, backend systems, artificial intelligence, and building practical software products from idea to deployment.
+**Building useful software. Exploring AI. Turning ideas into products.**
 
-- 🔭 **Currently building:** Cortex Engineering and Tabbed
-- 💻 **Core focus:** Full-stack development, REST APIs, backend engineering, and database-driven applications
-- 🧠 **Exploring:** Deep learning, computer vision, and AI-powered products
-- ☁️ **Cloud & DevOps:** AWS, Google Cloud, Docker, and deployment workflows
-- 🤝 **Open to:** Freelance projects, internships, open-source contributions, and collaborations
-- 📍 **Location:** Lucknow, Uttar Pradesh, India
-- 📫 **Email:** [aazib12j@gmail.com](mailto:aazib12j@gmail.com)
-- 🌐 **Portfolio:** [arc-aazib.vercel.app](https://arc-aazib.vercel.app/)
+<br/>
+
+<a href="https://arc-aazib.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-Visit%20Website-2563EB?style=for-the-badge" alt="Portfolio"/>
+</a>
+<a href="mailto:aazib12j@gmail.com">
+  <img src="https://img.shields.io/badge/✉️_EMAIL-Let's%20Connect-111827?style=for-the-badge" alt="Email"/>
+</a>
+<a href="https://github.com/aazib-at-hub">
+  <img src="https://img.shields.io/badge/GITHUB-Follow%20My%20Work-111827?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=aazib-at-hub&style=flat-square&color=2563EB&label=PROFILE+VIEWS" alt="Profile views"/>
+
+</div>
 
 ---
+
+<!-- ===================== ABOUT ===================== -->
+
+## 👨‍💻 About Me
+
+I'm a Computer Science undergraduate graduating in **2027**, passionate about building software applications, backend systems, and AI-powered products.
+
+I work across the stack—from responsive user interfaces and REST APIs to database-driven applications—and enjoy turning ideas into practical software through freelance development and personal projects.
+
+- 🔭 **Building:** Cortex Engineering & Tabbed
+- ⚙️ **Focus:** Full-stack development, backend engineering & APIs
+- 🧠 **Exploring:** Deep learning, computer vision & AI products
+- ☁️ **Tools:** AWS, Google Cloud, Docker & Git
+- 🤝 **Open to:** Freelance projects, internships & open-source collaboration
+- 📍 **Based in:** Lucknow, India
+
+<div align="center">
+
+### `Code` · `Create` · `Improve` · `Repeat`
+
+</div>
+
+---
+
+<!-- ===================== PROJECTS ===================== -->
 
 ## 🚀 What I'm Building
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🏗️ Cortex Engineering
 
-**Software engineering initiative for startups, agencies, and businesses.**
+**Software engineering for real-world needs.**
 
-I'm building Cortex Engineering with the goal of delivering practical software solutions that help businesses turn ideas and requirements into working digital products.
+An initiative I'm building toward providing software development solutions for startups, agencies, and businesses.
 
-- Exploring software solutions for business and product requirements.
-- Focusing on application development and engineering workflows.
-- Building a foundation for providing software development services to startups, agencies, and corporate teams.
+- Application development
+- Practical engineering solutions
+- Business-focused digital products
 
-🔗 **Repository:** [Cortex Engineering](https://github.com/Aazib-at-hub/Cortex-Engineering)
+<br/>
 
-### ⚡ Tabbed — AI Prompt Intelligence
+<a href="https://github.com/Aazib-at-hub/Cortex-Engineering">
+  <img src="https://img.shields.io/badge/Explore_Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore Cortex Engineering"/>
+</a>
 
-**Making AI prompts more structured, effective, and reusable.**
+</td>
+<td width="50%" valign="top">
 
-Tabbed is an AI-focused product designed to help users improve their prompts, understand weaknesses, organize their prompt libraries, and create better instructions for AI tools.
+### ⚡ Tabbed
 
-- Developing prompt evaluation and refinement workflows.
-- Building interactive browser experiences and reusable interface components.
-- Exploring prompt organization, optimization modes, and productivity features.
-- Working toward a dedicated prompt intelligence platform.
+**AI-powered prompt intelligence.**
 
-🔗 **GitHub:** [@aazib-at-hub](https://github.com/aazib-at-hub)
+A product designed to help users improve, optimize, and organize prompts for AI tools.
 
-### 🧠 AI Brain Tumor Segmentation Using Attention U-Net
+- Prompt refinement workflows
+- Interactive browser experience
+- Prompt organization & productivity
 
-**Deep learning for medical image segmentation.**
+<br/>
+
+<img src="https://img.shields.io/badge/AI-Powered-7C3AED?style=flat-square" alt="AI powered"/>
+<img src="https://img.shields.io/badge/Product-In_Development-0F766E?style=flat-square" alt="In development"/>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🧠 Brain Tumor Segmentation — Attention U-Net
+
+**Deep learning meets medical image analysis.**
 
 A computer vision project focused on segmenting brain tumor regions from MRI images using an Attention U-Net architecture.
 
-- Implemented image preprocessing and augmentation workflows.
-- Worked on model training, validation, and evaluation.
-- Used Dice Score and Intersection over Union (IoU) to assess segmentation performance.
+- Image preprocessing and augmentation
+- Model training and validation
+- Evaluation using Dice Score and Intersection over Union (IoU)
 
-**Technologies:** Python, Deep Learning, Attention U-Net, Image Processing
+`Python` `Deep Learning` `Attention U-Net` `Image Processing`
 
-🔗 **Source code:** Add the direct repository link when available.
+<!-- Replace this comment with the actual repository URL when available. -->
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**Want to see more?**
+
+<a href="https://arc-aazib.vercel.app/">
+  <img src="https://img.shields.io/badge/Explore_My_Portfolio-Visit_Projects-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore portfolio"/>
+</a>
+
+</div>
 
 ---
 
-## 🛠️ Technical Skills
+<!-- ===================== TECH STACK ===================== -->
 
-### Programming Languages
+## 🧰 Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js" alt="C++, Python, Java and JavaScript" />
-</p>
-
-- C++
-- Python
-- Java
-- JavaScript
-- SQL
-
-### Frontend Development
+### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" alt="HTML, CSS, React, Next.js and Tailwind CSS" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
 
-- HTML5 and CSS3
-- React.js
-- Next.js
-- Tailwind CSS
-- Responsive Web Design
-- Reusable UI Components
-
-### Backend Development & APIs
+### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Node.js, Express.js and FastAPI" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
 </p>
 
-- Node.js and Express.js
-- FastAPI
-- REST API Development
-- API Integration
-- Authentication Workflows
-- Backend Application Logic
-
-### Databases
+### Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL and MongoDB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 
-- MySQL
-- MongoDB
-- SQL
-- Database Design
-- Database-Driven Applications
-
-### Cloud, DevOps & Developer Tools
+### Cloud, DevOps & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,postman" alt="AWS, Google Cloud, Docker, Git, GitHub and Postman" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
-
-- Amazon Web Services (AWS)
-- Google Cloud Platform (GCP)
-- Docker
-- Git and GitHub
-- Postman
-- Testing, Debugging, and Deployment Workflows
 
 ### Core Computer Science
 
-- Data Structures and Algorithms
-- Object-Oriented Programming
-- Database Management Systems
-- Operating Systems
-- Computer Networks
-- Software Development Life Cycle (SDLC)
-- Software Testing and Debugging
+`Data Structures & Algorithms` · `OOP` · `DBMS` · `Operating Systems` · `Computer Networks` · `SDLC` · `Software Testing`
 
 ---
+
+<!-- ===================== EXPERIENCE ===================== -->
 
 ## 💼 Experience
 
-### Freelance Software Developer | Remote
+### Freelance Software Developer
 
-Working on software development projects involving frontend interfaces, backend services, APIs, and database-driven application functionality.
+`Remote` · `Software Development`
 
-- Developed responsive web interfaces using React.js, JavaScript, HTML5, CSS3, and Tailwind CSS.
-- Built and integrated backend services using Node.js, Express.js, and FastAPI.
-- Connected frontend applications to REST APIs and backend workflows.
-- Developed database-driven functionality using MongoDB and MySQL.
-- Translated client requirements and interface specifications into working software.
-- Used Git and GitHub for version control and maintained an iterative development workflow.
-- Performed testing, debugging, issue resolution, and application improvements.
-
-**Technologies:** React.js · JavaScript · Python · FastAPI · Node.js · Express.js · MongoDB · MySQL · Git
+- Developed responsive interfaces using React.js, JavaScript, HTML5, CSS3, and Tailwind CSS.
+- Built backend services and integrated REST APIs using Node.js, Express.js, and FastAPI.
+- Implemented database-driven functionality using MongoDB and MySQL.
+- Translated client requirements into working software through iterative development.
+- Used Git and GitHub for version control, testing, debugging, and maintenance.
 
 ---
 
-## 📊 GitHub Analytics
+<!-- ===================== GITHUB STATS ===================== -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aazib-at-hub&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aazib-at-hub&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most-used programming languages" />
-</p>
+## 📊 GitHub at a Glance
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aazib-at-hub&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aazib-at-hub&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aazib-at-hub&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aazib-at-hub&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages"/>
+
+<br/><br/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=aazib-at-hub&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
 
 ---
+
+<!-- ===================== ACHIEVEMENTS ===================== -->
 
 ## 🏆 Certifications & Achievements
 
-- ☁️ **AWS Certified Cloud Practitioner (CLF-C02)** — 2026
-- 🌐 **Google Cloud Skill Badges** — 2025–2026
-- 🔌 **Postman API Fundamentals Student Expert** — 2024
-- 🪶 **GirlScript Summer of Code '24 Extended** — Ranked 236, with 8 merged pull requests
-- 🌍 **Hacktoberfest 2024** — Completed 4 open-source pull requests
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ Cloud & APIs
+
+- **AWS Certified Cloud Practitioner** — 2026
+- **Google Cloud Skill Badges** — 2025–2026
+- **Postman API Fundamentals Student Expert** — 2024
+
+</td>
+<td width="50%" valign="top">
+
+### 🌍 Open Source
+
+- **GirlScript Summer of Code '24 Extended**
+  - Ranked 236
+  - 8 merged pull requests
+- **Hacktoberfest 2024**
+  - Completed 4 open-source pull requests
+
+</td>
+</tr>
+</table>
 
 ---
+
+<!-- ===================== EDUCATION ===================== -->
 
 ## 🎓 Education
 
-### Bachelor of Technology — Computer Science & Engineering
+**B.Tech. — Computer Science & Engineering**
 
-**Khwaja Moinuddin Chishti Language University, Lucknow**
+Khwaja Moinuddin Chishti Language University, Lucknow
 
-August 2023 – June 2027
+`August 2023 – June 2027`
 
-Relevant coursework: Data Structures and Algorithms, Object-Oriented Programming, DBMS, Operating Systems, Computer Networks, SDLC, and Software Testing.
+**Higher Secondary — PCM with Computer Application**
 
-### Higher Secondary Certificate — PCM with Computer Application
+City Montessori School, Lucknow
 
-**City Montessori School, Lucknow**
-
-June 2020 – July 2022
-
-**Score:** 91%
+`2020 – 2022` · **91%**
 
 ---
 
-## 🌍 Open Source Contributions
+<!-- ===================== CONNECT ===================== -->
 
-I enjoy contributing to open-source projects, collaborating with developers, and learning through real-world codebases.
+## 🤝 Let's Build Something
 
-- **GirlScript Summer of Code '24 Extended:** 8 merged pull requests; ranked 236.
-- **Hacktoberfest 2024:** Completed 4 open-source pull requests.
+Have a project idea, an interesting engineering challenge, or an opportunity to collaborate? I'd love to connect.
 
-I continue to value open collaboration, maintainable code, and sharing knowledge with the developer community.
+<div align="center">
 
----
+<a href="https://arc-aazib.vercel.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="mailto:aazib12j@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/aazib-at-hub">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://twitter.com/aazibk1">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
 
-## 🤝 Let's Connect
+<br/><br/>
 
-I'm interested in connecting with developers, founders, recruiters, agencies, and teams working on meaningful software products.
+**📍 Lucknow, India · 🌐 Available for collaboration**
 
-<p align="left">
-  <a href="https://arc-aazib.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/aazib-at-hub">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://twitter.com/aazibk1">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="mailto:aazib12j@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<br/>
 
-📍 Lucknow, Uttar Pradesh, India
+*“Great software starts with curiosity and gets better with every iteration.”*
 
-📧 [aazib12j@gmail.com](mailto:aazib12j@gmail.com)
-
-🌐 [Visit my portfolio](https://arc-aazib.vercel.app/)
-
----
-
-<p align="center">
-  <b>Build. Learn. Ship. Repeat. 🚀</b>
-</p>
-
-<p align="center">
-  <i>Turning ideas into practical software, one project at a time.</i>
-</p>
+</div>
